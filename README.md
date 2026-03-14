@@ -61,7 +61,7 @@ The Power BI dashboard includes:
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](images/customer churn analysis dashboard image.png)
 
 ---
 
