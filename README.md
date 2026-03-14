@@ -30,4 +30,4 @@ Customer churn dataset containing customer demographics, contract information, p
 - Electronic check payment method has higher churn rate.
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](images/Customer Churn analysis.pdf)
