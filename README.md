@@ -61,7 +61,7 @@ The Power BI dashboard includes:
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard]([images/dashboard_preview.png](https://github.com/workranadebnath/customer-churn-analysis/blob/main/images/dashboard_preview.png.png))
 
 ---
 
